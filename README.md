@@ -1,2 +1,2 @@
-# jogo-cobrinha
-Recriando o Jogo da Cobrinha
+# Snake-Game
+Recriando o Jogo da Cobrinha. Com contagem de Score.
